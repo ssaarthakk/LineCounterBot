@@ -37,7 +37,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root and add your Telegram bot token:
 
 ```plaintext
-TELEGRAM_TOKEN=your_bot_token_here
+API_KEY=your_bot_token_here
 ```
 
 ### 5. Run the Bot
